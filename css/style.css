@@ -3,13 +3,13 @@
 /* link the web font used for the level 1 heading here */
 @font-face {
 	font-family: "Baskerville";
-	src: url(fonts/Baskerville.ttc);
+	src: url(../fonts/Baskerville.ttc);
 }
 
 /*////////// Global Styles //////////*/
 
 body {
-	background: #F00;
+	background: #F3EBE9;
 	font-size: 100%;
 	font-family: 'Times New Roman', serif;
 }
