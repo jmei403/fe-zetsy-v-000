@@ -69,3 +69,7 @@ header a {
 	border: 5px rgb(200,200,200) solid;
 	padding: 1px;
 }
+
+.small {
+	text-align: right;
+}
