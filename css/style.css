@@ -45,3 +45,8 @@ p {
 .small {
 	font-size: 0.8em;
 }
+
+/*////////// Section Styles //////////*/
+header {
+	color: rgb(152,173,166);
+}
